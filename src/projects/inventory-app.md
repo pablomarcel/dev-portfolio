@@ -4,11 +4,15 @@ stack: C#, Visual Studio
 slug: inventory-app
 date: 2022-06-25T00:00:00+00:00
 thumb: ../images/thumbs/inventory-app.png
-featuredImg: ../images/featured/coffee-banner.png
+featuredImg: ../images/featured/inventory-app-banner.png
 ---
 
-C# Inventory App
+Release Date: June 25, 2022
 
-### C# Inventory App
+### Project Description
 
-C# Inventory App
+This is a barebones C# Console App to keep track of inventory. The user can add, change, delete and list items. 
+
+### System Requirements
+
+Software: C#, Visual Studio

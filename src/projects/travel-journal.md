@@ -4,11 +4,15 @@ stack: React, Node, Express
 slug: travel-journal
 date: 2022-09-06T00:00:00+00:00
 thumb: ../images/thumbs/travel-journal.png
-featuredImg: ../images/featured/coffee-banner.png
+featuredImg: ../images/featured/travel-journal-banner.png
 ---
 
-Travel Journal API
+Release Date: Not implemented yet
 
-### Travel Journal API
+### Project Description
 
-Travel Journal API
+Travel Journal API helps users find information about travel destinations.
+
+### System Requirements
+
+Software: Node, Express, React, MongoDB

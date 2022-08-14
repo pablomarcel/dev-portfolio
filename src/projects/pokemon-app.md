@@ -1,14 +1,20 @@
 ---
-title: Pokemon App
+title: Pokémon App
 stack: React, MUI
 slug: pokemon-app
 date: 2022-05-22T00:00:00+00:00
 thumb: ../images/thumbs/pokemon-app.png
-featuredImg: ../images/featured/coffee-banner.png
+featuredImg: ../images/featured/pokemon-app-banner.png
 ---
 
-Pokemon App
+Release Date: May 22, 2022
 
-### Pokemon App
+[**Link: Pokémon App**](https://pokemon-app-760d2.web.app/)
 
-Pokemon App
+### Project Description
+
+This App is an exploration of the Pokémon Universe. It fetches data from the [**Pokémon API**](https://pokeapi.co/) and then displays a list of Pokémons. The details page for each Pokémon displays a picture, base experience, height and weight. Other options available are Items, Machines and Berries. The App has a pagination system to traverse the entire Pokémon universe.
+
+### System Requirements
+
+Software: React, Javascript, Material UI

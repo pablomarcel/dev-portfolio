@@ -4,11 +4,18 @@ stack: Unity, C#, Photoshop, Itch.io
 slug: boosted-overdrive
 date: 2022-01-01T00:00:00+00:00
 thumb: ../images/thumbs/boosted-overdrive.png
-featuredImg: ../images/featured/coffee-banner.png
+featuredImg: ../images/featured/boosted-overdrive-banner.png
 ---
 
-2D Shooter
+Release Date: August 9, 2021
 
-### 2D Shooter
+[**Link: Boosted Overdrive**](https://pablomarcel.itch.io/boosted-overdrive)
 
-2D Shooter
+### Project Details
+
+This is a single person 2D Space Shooter. The player is given a mission to defeat enemy ships. The spaceship must avoid asteroids and black holes. 
+The game was made in Unity and can be played in the browser or downloaded for Windows or macOS. 
+
+### System Requirements
+
+Platform: Windows, macOS, WebGL (Browser)
