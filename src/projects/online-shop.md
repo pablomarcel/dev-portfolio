@@ -13,7 +13,7 @@ Release Date: June 12, 2022
 
 ### Project Description
 
-This App is an eCommerce App with [**Stripe**](https://stripe.com/) credit card payment integration. The app uses mock data stored in [**Firestore**](https://firebase.google.com/docs/firestore/) to display a list of items by category. The user can click on each item for further details. The details page for each item has an option to add to cart or go back one step. The Shopping Cart has a checkout button. It is then possible to make purchases using the test credit card provided by Stripe. 
+This is an eCommerce App with [**Stripe**](https://stripe.com/) credit card payment integration. The app uses mock data stored in [**Firestore**](https://firebase.google.com/docs/firestore/) to display a list of items by category. The user can click on each item for further details. The details page for each item has an option to add to cart or go back one step. The Shopping Cart has a checkout button. It is then possible to make purchases using the test credit card provided by Stripe. 
 
 ### System Requirements
 
