@@ -13,7 +13,7 @@ const Projects = ({ data }) => {
     <Layout>
       <div className={styles.portfolio}>
         <h2>Portfolio</h2>
-        <h3>Projects & Websites I've Created</h3>
+        <h3>Python Projects, React Web Apps and Video Games I've Created</h3>
         <div className={styles.projects}>
           {projects.map(project => (
             <Link to={"/projects/" + project.frontmatter.slug} key={project.id}>
@@ -25,12 +25,12 @@ const Projects = ({ data }) => {
             </Link>
           ))}
         </div>
-        <p>Likewhat you see? email me at {contact} for a quote!</p>
+        <p> Hire Me! at {contact} </p>
       </div>
     </Layout>
   );
 }
- 
+
 export default Projects
 
 // export page query
