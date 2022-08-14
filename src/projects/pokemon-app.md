@@ -4,7 +4,7 @@ stack: React, MUI
 slug: pokemon-app
 date: 2022-05-22T00:00:00+00:00
 thumb: ../images/thumbs/pokemon-app.png
-featuredImg: ../images/featured/pokemon-app-banner.png
+featuredImg: ../images/featured/pokemon-app-white-banner.png
 ---
 
 Release Date: May 22, 2022
