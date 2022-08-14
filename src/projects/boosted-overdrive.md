@@ -13,7 +13,8 @@ Release Date: August 9, 2021
 
 ### Project Details
 
-This is a single person 2D space shooter. The player is given a mission to defeat enemy ships. The spaceship must avoid asteroids and black holes. 
+This is a single person 2D Space Shooter. The player is given a mission to defeat enemy ships. The spaceship must avoid asteroids and black holes. 
+The game was made in Unity and can be played in the browser or downloaded for Windows or macOS. 
 
 ### System Requirements
 

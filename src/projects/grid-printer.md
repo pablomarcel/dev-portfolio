@@ -11,7 +11,8 @@ Release Date: April 20, 2021
 
 ### Project Description
 
-This app prints a grid based off the user specifications. The user is given the option to specify the number of rows and columns. The program will then build a grid with ASCII characters. 
+This app prints a grid based off the user specifications. The user is given the option to specify the number of rows and columns. 
+The program then builds a grid with ASCII characters. 
 
 ### System Requirements
 

@@ -1,5 +1,5 @@
 ---
-title: Mailroom App
+title: Flask Donations App
 stack: Python, Flask, Heroku
 slug: flask-mailroom
 date: 2021-10-06T00:00:00+00:00
@@ -8,6 +8,8 @@ featuredImg: ../images/featured/flask-mailroom-banner.png
 ---
 
 Release Date: October 06, 2021
+
+[**Link: Flask Donations App**](http://fathomless-caverns-56892.herokuapp.com/donations/)
 
 ### Project Description
 
