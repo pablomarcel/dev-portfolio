@@ -26,7 +26,7 @@ export const query = graphql`
   query Banner {
     file(relativePath: {eq: "tech-stack.png"}) {
       childImageSharp {
-        fluid(quality: 1000, maxWidth: 1000) {
+        fluid(quality: 100, maxWidth: 1000) {
           ...GatsbyImageSharpFluid
         }
       }
