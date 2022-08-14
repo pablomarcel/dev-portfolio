@@ -44,7 +44,7 @@ export const query = graphql`
           title
           thumb {
             childImageSharp {
-              fluid {
+              fluid(quality: 100, maxWidth: 1000) {
                 ...GatsbyImageSharpFluid
               }
             }

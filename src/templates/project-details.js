@@ -20,7 +20,7 @@ const ProjectDetails = ({ data }) => {
     </Layout>
   )
 }
- 
+
 export default ProjectDetails
 
 export const query = graphql`
@@ -32,7 +32,7 @@ export const query = graphql`
         title
         featuredImg {
           childImageSharp {
-            fluid {
+            fluid(quality: 100, maxWidth: 350) {
               ...GatsbyImageSharpFluid
             }
           }
