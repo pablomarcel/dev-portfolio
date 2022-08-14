@@ -12,7 +12,7 @@ export default function Home({ data }) {
       <section className={styles.header}>
         <div>
           <h2>Full Stack</h2>
-          <h3>Python & Javascript</h3>
+          <h3>Python/Django & React/Node.js</h3>
           <p>Software Developer based in the PNW.</p>
           <Link className={styles.btn} to="/projects">My Portfolio Projects</Link>
         </div>
