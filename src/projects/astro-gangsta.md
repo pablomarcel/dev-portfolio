@@ -1,6 +1,6 @@
 ---
-title: Astro Gangsta 2D Platformer
-stack: Unity, C#
+title: Astro Gangsta
+stack: Unity, C#, Itch.io
 slug: astro-gangsta
 date: 2021-05-30T00:00:00+00:00
 thumb: ../images/thumbs/astro-gangsta.png
