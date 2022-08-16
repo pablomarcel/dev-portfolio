@@ -1,5 +1,5 @@
 ---
-title: Boosted Overdrive 2D Shooter
+title: Boosted Overdrive
 stack: Unity, C#, Photoshop, Itch.io
 slug: boosted-overdrive
 date: 2022-01-01T00:00:00+00:00

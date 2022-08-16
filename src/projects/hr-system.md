@@ -1,6 +1,6 @@
 ---
 title: HR System
-stack: Python
+stack: Python, Pandas
 slug: hr-system
 date: 2021-06-01T00:00:00+00:00
 thumb: ../images/thumbs/hr-system.png

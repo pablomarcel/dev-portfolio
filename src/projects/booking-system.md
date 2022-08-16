@@ -1,6 +1,6 @@
 ---
 title: Booking System
-stack: Python
+stack: Python, Pandas
 slug: booking-system
 date: 2021-06-12T00:00:00+00:00
 thumb: ../images/thumbs/booking-system.png

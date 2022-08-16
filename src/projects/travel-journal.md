@@ -7,7 +7,7 @@ thumb: ../images/thumbs/travel-journal.png
 featuredImg: ../images/featured/travel-journal-banner.png
 ---
 
-Release Date: Not implemented yet
+Release Date: Not deployed yet
 
 ### Project Description
 

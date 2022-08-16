@@ -11,7 +11,7 @@ Release Date: November 30, 2021
 
 ### Project Description
 
-This is a web server implemented on an ESP32 IoT device. The user enters instructions in the web browser and the ESP32 devices turns on LED's based off the user input.
+This is a web server implemented on an ESP32 IoT device. The user enters instructions in the web browser and the ESP32 device turns an LED on based off the user input.
 
 ### System Requirements
 

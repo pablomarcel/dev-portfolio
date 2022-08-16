@@ -15,4 +15,4 @@ This app uses the [**Open Brewery Database API**](https://www.openbrewerydb.org/
 
 ### System Requirements
 
-Platform: Web Browser
+Software: Vanilla Javascript, Bootstrap
