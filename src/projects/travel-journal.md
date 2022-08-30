@@ -7,7 +7,9 @@ thumb: ../images/thumbs/travel-journal.png
 featuredImg: ../images/featured/travel-journal-banner.png
 ---
 
-Release Date: Not deployed yet
+Release Date: August 29, 2022
+
+[**Link: Travel Journal**](https://travel-journal-pablo.herokuapp.com/)
 
 ### Project Description
 
