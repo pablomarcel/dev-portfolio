@@ -9,6 +9,8 @@ featuredImg: ../images/featured/beer-quest-banner.png
 
 Release Date: March 20, 2022
 
+[**Link: Beer Quest**](https://jellyfish-app-5izw4.ondigitalocean.app)
+
 ### Project Description
 
 This app uses the [**Open Brewery Database API**](https://www.openbrewerydb.org/). Open Brewery DB is a free dataset and API with public information on breweries. The dataset includes nationwide information. Beer Quest fetches the data from the API and displays tailored information to the user depending on State and City. The App also offers the option to export the results to a JSON file   
