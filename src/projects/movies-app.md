@@ -9,6 +9,8 @@ featuredImg: ../images/featured/movies-app-banner.png
 
 Release Date: August 09, 2022
 
+[**Link: Movies App**](https://graphql-movie-db.herokuapp.com/)
+
 ### Project Description
 
 This App uses GraphQL to query information about movies. The movies database is stored in MongoDB Atlas. The user can click on a movie and see who the Director is, and see all the movies by that particular Director.
