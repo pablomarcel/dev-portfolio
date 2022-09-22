@@ -7,7 +7,7 @@ thumb: ../images/thumbs/limbonaut-reviews.png
 featuredImg: ../images/featured/limbonaut-reviews-banner.png
 ---
 
-Release Date: August 29, 2022
+Release Date: September 18, 2022
 
 [**Link: Limbonaut Reviews**](https://limbonaut-reviews.herokuapp.com/)
 
