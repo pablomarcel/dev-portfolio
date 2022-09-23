@@ -1,5 +1,5 @@
 ---
-title: Limbonaut Reviews
+title: Video Game Reviews
 stack: React, Node, Express
 slug: limbonaut-reviews
 date: 2022-09-06T00:00:00+00:00
