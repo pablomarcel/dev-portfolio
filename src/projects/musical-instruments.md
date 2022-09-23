@@ -9,7 +9,7 @@ featuredImg: ../images/featured/musical-instruments-banner.png
 
 Release Date: September 22, 2022
 
-[**Link: Musical Instruments**](https://museum-music-19qjf612r-pablomarcel.vercel.app/)
+[**Link: Musical Instruments**](https://museum-music.vercel.app/)
 
 ### Project Description
 
