@@ -2,7 +2,7 @@
 title: Limbonaut Videos
 stack: React, Node, Express
 slug: limbonaut-videos
-date: 2022-09-06T00:00:00+00:00
+date: 2022-09-24T00:00:00+00:00
 thumb: ../images/thumbs/limbonaut-videos.png
 featuredImg: ../images/featured/limbonaut-videos-banner.png
 ---

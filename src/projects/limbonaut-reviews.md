@@ -2,7 +2,7 @@
 title: Limbonaut Reviews
 stack: React, Node, Express
 slug: limbonaut-reviews
-date: 2022-09-06T00:00:00+00:00
+date: 2022-09-18T00:00:00+00:00
 thumb: ../images/thumbs/limbonaut-reviews.png
 featuredImg: ../images/featured/limbonaut-reviews-banner.png
 ---
