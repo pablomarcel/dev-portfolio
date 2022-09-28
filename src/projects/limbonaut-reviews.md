@@ -1,6 +1,6 @@
 ---
 title: Limbonaut Reviews
-stack: React, Node, Express
+stack: Mongo, Express, React, Node, AWS S3
 slug: limbonaut-reviews
 date: 2022-09-18T00:00:00+00:00
 thumb: ../images/thumbs/limbonaut-reviews.png
