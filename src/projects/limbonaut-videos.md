@@ -1,6 +1,6 @@
 ---
 title: Limbonaut Videos
-stack: React, Node, Express
+stack: Mongo, Express, React, Node, AWS S3
 slug: limbonaut-videos
 date: 2022-09-24T00:00:00+00:00
 thumb: ../images/thumbs/limbonaut-videos.png
