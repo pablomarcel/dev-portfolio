@@ -1,5 +1,5 @@
 ---
-title: Corporate America
+title: Corporate Buzzwords
 stack: Mongo, Express, React, Node
 slug: corporate-america
 date: 2022-09-27T00:00:00+00:00
@@ -9,7 +9,7 @@ featuredImg: ../images/featured/corporate-america-banner.png
 
 Release Date: September 27, 2022
 
-[**Link: Corporate America**](https://corporate-america.herokuapp.com/)
+[**Link: Corporate Buzzwords**](https://corporate-buzzwords.herokuapp.com/)
 
 ### Project Description
 
