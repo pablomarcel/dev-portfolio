@@ -1,5 +1,5 @@
 ---
-title: Limbonaut Videos
+title: Limbo Videos
 stack: Mongo, Express, React, Node, AWS S3
 slug: limbonaut-videos
 date: 2022-09-24T00:00:00+00:00
@@ -9,7 +9,7 @@ featuredImg: ../images/featured/limbonaut-videos-banner.png
 
 Release Date: September 24, 2022
 
-[**Link: Limbonaut Videos**](https://limbonaut-videos.herokuapp.com/)
+[**Link: Limbo Videos**](https://limbo-videos.herokuapp.com/)
 
 ### Project Description
 
