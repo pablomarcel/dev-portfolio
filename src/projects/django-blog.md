@@ -9,7 +9,7 @@ featuredImg: ../images/featured/django-blog-banner.png
 
 Release Date: November 26, 2021
 
-[**Link: Django Blog**](https://fathomless-anchorage-90519.herokuapp.com/)
+[**Link: Django Blog**](https://django-blog-app.herokuapp.com/)
 
 ### Project Description
 
