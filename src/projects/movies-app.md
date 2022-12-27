@@ -9,7 +9,7 @@ featuredImg: ../images/featured/movies-app-banner.png
 
 Release Date: August 09, 2022
 
-[**Link: Movies App**](https://graphql-movie-db.herokuapp.com/)
+[**Link: Movies App**](https://graphql-movies.herokuapp.com/)
 
 ### Project Description
 
