@@ -1,5 +1,5 @@
 ---
-title: Limbonaut Reviews
+title: Limbo Reviews
 stack: Mongo, Express, React, Node, AWS S3
 slug: limbonaut-reviews
 date: 2022-09-18T00:00:00+00:00
@@ -9,7 +9,7 @@ featuredImg: ../images/featured/limbonaut-reviews-banner.png
 
 Release Date: September 18, 2022
 
-[**Link: Limbonaut Reviews**](https://limbonaut-reviews.herokuapp.com/)
+[**Link: Limbo Reviews**](https://limbo-reviews.herokuapp.com/)
 
 ### Project Description
 
