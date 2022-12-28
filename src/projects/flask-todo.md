@@ -9,7 +9,7 @@ featuredImg: ../images/featured/flask-todo-banner.png
 
 Release Date: October 05, 2021
 
-[**Link: Flask To-Do App**](https://salty-ocean-44109.herokuapp.com/all)
+[**Link: Flask To-Do App**](https://flask-todo.herokuapp.com/all)
 
 ### Project Description
 
