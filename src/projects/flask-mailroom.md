@@ -9,7 +9,7 @@ featuredImg: ../images/featured/flask-mailroom-banner.png
 
 Release Date: October 06, 2021
 
-[**Link: Flask Donations App**](http://fathomless-caverns-56892.herokuapp.com/donations/)
+[**Link: Flask Donations App**](http://flask-donations-app.herokuapp.com/donations/)
 
 ### Project Description
 
