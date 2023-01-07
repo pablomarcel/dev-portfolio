@@ -8,9 +8,9 @@ const About = () => {
     <Layout>
       <div>
         <h1>About page</h1>
-        <p>My Journey through software development started back in 2021 when I enrolled in a Python Certificate Program. Python enchanted me because of its simplicity, versatility and user friendliness. Learning Python has been a delightful experience full of surprises and opened the door for more good stuff.</p>
-        <p>Even though the Python stack is fabulous, the web runs on Javascript. So, I enrolled in a Full Stack Certificate Program. Coming from Python, Javascript became an acquired taste. The real magic happened when I came across React as it allowed me to build full blown web apps in a short period of time. Then came Node.js which tied everything together. Somewhere along the line came Unity and C#. The unity games I've included in this portfolio are just side projects to have a little fun.</p>
-        <p>I have included projects of any size because I wanted to have a single source of truth for the apps I've worked on and avoid the pain of digging in the file system looking for folders. Also, I plan to keep populating the list as more ideas pop up.</p>
+        <p>I began my journey in software development in 2021 when I enrolled in a Python Certificate Program. I was immediately drawn to Python for its simplicity, versatility, and user-friendliness. Learning Python has been a wonderful experience full of surprises and has opened the door for more great opportunities.</p>
+        <p>Although the Python stack is excellent, the web relies on Javascript. So, I enrolled in a Full Stack Certificate Program to learn more about this language. Coming from Python, Javascript was an acquired taste, but I really found my stride when I discovered React. This technology allowed me to build full-fledged web apps quickly and efficiently. I also learned about Node.js, which tied everything together. Along the way, I also discovered Unity and C#, and the unity games in my portfolio are just fun side projects.</p>
+        <p>I have included projects of all sizes in my portfolio because I wanted to have a single source of truth for the apps I have worked on and to avoid the hassle of searching through my file system for specific folders. I also plan to continue adding to this list as new ideas come to me.</p>
       </div>
     </Layout>
   );
