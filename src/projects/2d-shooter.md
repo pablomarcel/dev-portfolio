@@ -13,10 +13,27 @@ Release Date: April 18, 2021
 
 ### Project Details
 
-This is a single person 2D Space Shooter. The game consists of three levels. In each level the player controls a spaceship and fights against enemy ships. The enemy ships can be stationary or be chasers. Enemies are spawned at certain intervals and there is a boss fight at the end of the levels.
-The game was made in Unity and can be played in the browser or downloaded for Windows or macOS.
+Introduction
+A 2D Space Shooter game where the player has to destroy enemy ships in order to proceed to the next level.
+The game is playable in a browser with support for WebGL or in desktop environments such as Windows or MacOS.
+
+Levels
+The game consists of three levels, each with its own set of enemies. The player must defeat all of them to move on to the next level.
+The enemies are stationary, chasers and a big boss, each with their own difficulty levels and strategies to defeat them.
+
+User Interface
+The game has a simple user interface where the player can control the ship with the arrow keys and shoot with the space bar.
+The game also supports game controllers for a more immersive experience.
+
+Development
+The game was developed in Unity and includes a variety of features such as UI, game controller support, support for WebGL, 2D models and 2D sprites, particle effects, particle system, sound effects, music, scripting, collision detection and physics.
+The game was built with the latest technologies to provide a smooth and enjoyable experience.
+
+Gameplay
+The gameplay consists of controlling the ship and shooting the enemies in order to progress to the next level.
+The player must use the controls and their wits to survive and defeat the enemies in order to complete the game.
 
 ### System Requirements
 
-Platform: Windows, macOS, WebGL (Browser)
+Platform: Windows, macOS, Browser with WebGL Support
 

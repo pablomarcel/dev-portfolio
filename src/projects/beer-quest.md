@@ -13,7 +13,7 @@ Release Date: March 20, 2022
 
 ### Project Description
 
-This app uses the [**Open Brewery Database API**](https://www.openbrewerydb.org/). Open Brewery DB is a free dataset and API with public information on breweries. The dataset includes nationwide information. Beer Quest fetches the data from the API and displays tailored information to the user depending on State and City. The App also offers the option to export the results to a JSON file   
+Introducing Beer Quest, a web application powered by the Open Brewery Database and built with JavaScript. The Open Brewery Database is a free, public dataset and API with information on breweries nationwide, which can be accessed at [**Open Brewery Database API**](https://www.openbrewerydb.org/). With Beer Quest, users can search for breweries by inputting a state, city, and page number. Upon submitting the form, the app fetches the data from the API and displays a list of 5 breweries, including their Name, City, and Website. Users can view additional results by adjusting the page number or choose to export the results to a JSON file. The app features a sleek user interface designed with Bootstrap and is hosted on DigitalOcean.
 
 ### System Requirements
 
