@@ -28,7 +28,7 @@ module.exports = {
   siteMetadata: {
     title: 'pablomarcel',
     description: 'dev portfolio',
-    copyright: '2022 pablomarcel',
+    copyright: '2023',
     contact: 'pablomarcel@limbo.dev',
   },
 }
