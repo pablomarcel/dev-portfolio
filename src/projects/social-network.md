@@ -11,7 +11,30 @@ Release Date: September 08, 2021
 
 ### Project Description
 
-This is a barebones Social Network Console App. The App uses mock data for users and status updates. It is possible to add, update, search, and delete a user. It is also possible to add, update, search and delete a status for a particular user. One peculiar functionality is the 'Add image' option. We can add an image by entering hashtags that represent categories. The program then builds folders and create fake images in the file system depending upon the hashtags the user entered. Later on, the fake images can be searched in the file system with the help of recursion. Also, it is possible to inquiry about discrepancies between the file system and the App database. That is, if the file system and the database don't match it displays which images are unique to the file system, which images are unique to the database, and which images are common. 
+Introduction
+
+This Social Network Console App allows users to add, update, search and delete a user.
+It also allows users to add, update, search and delete a status for a particular user.
+
+Add Image Option
+
+The App also has a 'Add image' option where users can enter hashtags that represent categories.
+The program then builds folders and creates fake images in the file system depending upon the hashtags the user entered.
+
+Search Images with Recursion
+
+The fake images can be searched in the file system with the help of recursion.
+It is also possible to inquiry about discrepancies between the file system and the App database.
+
+Inquiry about Discrepancies
+
+If the file system and the database don't match, it displays which images are unique to the file system, which images are unique to the database, and which images are common.
+The App also allows users to add, update, search and delete a status for a particular user.
+
+Conclusion
+
+This Social Network Console App is a great way to keep track of users and status updates.
+It also has a 'Add image' option which makes it even more useful.
 
 ### System Requirements
 
