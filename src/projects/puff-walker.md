@@ -13,9 +13,26 @@ Release Date: August 9, 2021
 
 ### Project Details
 
-This is a single player 3D Platformer. The player is an astronaut that must jump over platforms, collect a keycard to reach the goal and complete the levels.
-The game was made in Unity and can be played in the browser or downloaded for Windows or macOS.
+Overview
+
+The player is an astronaut who must traverse a collection of platforms to reach the goal.
+The player must also collect a keycard to progress to the next level.
+
+Evade and Explore
+
+The astronaut must be careful to avoid any obstacles in their way and use their skills to find their way to the goal.
+The astronaut must explore the environment to find the keycard and unlock the way forward.
+
+Reach the Goal
+
+The player must navigate the environment and use their skills to find the keycard and unlock the way forward.
+Once the keycard is collected, the player will be able to reach the goal and complete the levels.
+
+Unity and Download
+
+The game was created in Unity off prefabricated assets and can be played in the browser or downloaded for Windows or macOS.
+The sound effects and music add to the overall atmosphere, creating an immersive and captivating experience.
 
 ### System Requirements
 
-Platform: Windows, macOS, WebGL (Browser)
+Platform: Windows, macOS, Browser with WebGL support
